@@ -42,7 +42,7 @@ mri_nnu/
 │   │   ├── 2_nnu_3d_train_fold_1.sh
 │   │   ├── 2_nnu_3d_train_fold_2.sh
 │   │   ├── 2_nnu_3d_train_fold_3.sh
-│   │   ├── 2_nnu_3d_train_fold_4.sh
+│   │   └── 2_nnu_3d_train_fold_4.sh
 │   ├── 1_nnu_plan_and_preprocess.sh
 │   ├── 3_nnv_3d_best_conf.sh
 │   ├── 4_nnu_3d_predict.sh
