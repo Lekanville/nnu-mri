@@ -1,0 +1,30 @@
+# nnU-Net data directories (these are generated locally or on the cluster)
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_trained_models/
+
+# Slurm output and error log files
+*.out
+*.err
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
+
+# crash dump
+core
+scripts/core
+
+# misc runtime artifacts
+*.log
+*.tmp
+*.pid
+*.core
