@@ -58,7 +58,7 @@ mri_nnu/
 ## Pipeline Execution
 * Plan and Preprocess:
 ```bash
-bash scripts/1_nnu_plan_and_preprocess.sh
+sbatch scripts/1_nnu_plan_and_preprocess.sh
 ```
 
 * Train the Model:
