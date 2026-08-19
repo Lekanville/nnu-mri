@@ -21,7 +21,7 @@ cd nnu-mri
 
 # Create and activate the Conda environment
 conda env create -f environment.yml
-conda conda activate adipose_seg  # (or your chosen environment name)
+conda conda activate nnu_env  # (or your chosen environment name)
 ```
 
 ## Configuration
