@@ -1,6 +1,5 @@
 # MRI Image Segmentation using nnU-Net
-
-A reproducible pipeline for benchmarking 3D medical image segmentation (specifically focusing on Glioblastoma sub-regions using T1-weighted MRI) using the state-of-the-art **nnU-Net** framework. This project serves as a technical validation baseline for downstream whole-body adipose tissue segmentation and radiomic feature analysis.
+A reproducible pipeline for 3D medical image segmentation using the state-of-the-art **nnU-Net** framework. This project serves as a technical validation baseline for downstream whole-body adipose tissue segmentation and radiomic feature analysis.
 
 ---
 
